@@ -3,7 +3,7 @@
 
 
 
-### Vidoe Do codigo e como funciona
+### Video Do código e como funcíona
 
 https://user-images.githubusercontent.com/89351018/146944425-7b118159-3536-40b0-bdd7-e2331e268b85.mp4
 
